@@ -10,4 +10,10 @@ Some features include:
 
 Done as a part of the course 'Fuzzy Logic and Applications'.
 
+To run the project: 
+
+ * Copy the files into one folder.
+ * Add the folder to paths in Matlab
+ * Run untitled.m.
+
   
