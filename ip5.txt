@@ -1,0 +1,6 @@
+MaximumHeartRate
+75 525
+3
+5 Low trapmf 0 0 100 141
+5 Medium trimf 111 152 194
+5 High trapmf 152 216 575 575

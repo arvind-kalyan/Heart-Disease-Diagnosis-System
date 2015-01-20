@@ -1,0 +1,7 @@
+BloodPressure
+90 310
+4
+2 Low trapmf 0 0 111 134
+2 Medium trimf 127 139 154
+2 High trimf 142 157 172
+2 VeryHigh trapmf 154 171 310 310

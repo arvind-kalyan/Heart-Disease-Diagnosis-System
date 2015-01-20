@@ -1,0 +1,6 @@
+OldPeak
+0 7
+3
+6 Low trapmf 0 0 1 2
+6 Risk trimf 1.5 2.8 4.2
+6 Terrible trapmf 2.55 4 7 7

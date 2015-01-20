@@ -1,0 +1,7 @@
+ChestPain
+1 4
+4
+1 TypicalAngina trimf 1 1 1
+1 AtypicalAngina trimf 2 2 2
+1 NonAnginalPain trimf 3 3 3
+1 Asymptomatic trimf 4 4 4

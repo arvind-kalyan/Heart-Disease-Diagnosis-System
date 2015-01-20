@@ -1,0 +1,7 @@
+Cholesterol
+125 575
+4
+3 Low trapmf 0 0 151 197
+3 Medium trimf 188 215 250
+3 High trimf 217 263 307
+3 VeyHigh trapmf 281 347 575 575

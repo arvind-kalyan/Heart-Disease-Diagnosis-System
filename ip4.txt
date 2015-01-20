@@ -1,0 +1,4 @@
+BloodSugar
+60 160
+1
+4 VeryHigh trapmf 105 120 160 160

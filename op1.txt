@@ -1,0 +1,8 @@
+Result
+0 5
+5
+1 Healthy trapmf 0 0 0.3 1
+1 LowRisk trimf 0 1 2
+1 ModerateRisk trimf 1 2 3
+1 Risk trimf 2 3 4
+1 HighRisk trapmf 3 3.7 4 4

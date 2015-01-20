@@ -1,0 +1,57 @@
+      Name      = fuzzylogic
+      Type      = mamdani
+      NumInputs = 6
+      InLabels  = 
+            ChestPain
+            BloodPressure
+            Cholesterol
+            BloodSugar
+            MaximumHeartRate
+            OldPeak
+      NumOutputs = 1
+      OutLabels = 
+            Result
+      NumRules = 26
+      AndMethod = min
+      OrMethod = max
+      ImpMethod = min
+      AggMethod = sum
+      DefuzzMethod = centroid
+      Name      = fuzzylogic
+      Type      = mamdani
+      NumInputs = 6
+      InLabels  = 
+            ChestPain
+            BloodPressure
+            Cholesterol
+            BloodSugar
+            MaximumHeartRate
+            OldPeak
+      NumOutputs = 1
+      OutLabels = 
+            Result
+      NumRules = 26
+      AndMethod = min
+      OrMethod = max
+      ImpMethod = min
+      AggMethod = sum
+      DefuzzMethod = centroid
+      Name      = fuzzylogic
+      Type      = mamdani
+      NumInputs = 6
+      InLabels  = 
+            ChestPain
+            BloodPressure
+            Cholesterol
+            BloodSugar
+            MaximumHeartRate
+            OldPeak
+      NumOutputs = 1
+      OutLabels = 
+            Result
+      NumRules = 26
+      AndMethod = min
+      OrMethod = max
+      ImpMethod = min
+      AggMethod = sum
+      DefuzzMethod = centroid
